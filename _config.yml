@@ -95,6 +95,9 @@ jsonContent:
     tags: true
 
 deploy:
-  type:
+  type: git
+  repo: git@gitlab.com:yutao98712/yutao98712.gitlab.io.git
+  branch: master
+
 
 
